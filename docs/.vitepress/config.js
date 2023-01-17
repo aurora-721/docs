@@ -1,21 +1,24 @@
 export default {
-    title: 'sodigfj',
+    title: 'Aurora',
     description: 'Just playing around.',
     themeConfig: {
-        siteTitle: 'My Custom Title',
+        siteTitle: 'Aurora Guide',
         logo: '/my-logo.svg',
         nav: [
-            { text: 'Guide', link: '/guide' },
+            { text: '', link: '/guide' },
             { text: 'Configs', link: '/configs' },
           ],
         sidebar: [
         {
-            text: 'Guide',
+            text: 'Timelog',
             items: [
 
                 { text: 'Welcome', link: '/' },
                 { text: 'From research to business', link: '/timelog/research-to-business' },
+                { text: 'Why sex toys', link: '/timelog/why-sex-toys' },
+                { text: 'My time at Instrumentation Technologies', link: '/timelog/i-tech.md' },
                 { text: 'Why blockchain', link: '/timelog/why-blockchain' },
+                { text: 'Visions for the future', link: '/timelog/visions-for-the-future' },
             ]
         }
         ]

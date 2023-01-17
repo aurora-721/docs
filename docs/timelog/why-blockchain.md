@@ -5,8 +5,8 @@
 
 >  Like gold and other precious metals, money has worth because for most people it represents something valuable.
 
- - Can help bring equality of opportunity - giving more people the ability to participate, designing fair algortihms that allow for particiaption and reward based on merit, designing a fair system
+ - Can help bring equality of opportunity throughout the world independent of local government policies- giving more people the ability to participate, designing fair algortihms that allow for particiaption and reward based on merit, designing a fair system
  - Better transperency of organizations, more trust
  - Incorporating trustless transactions, thus allowing for faster negotiations
-- Cant be taken down - because of the design of the technology
-- knowledge is essential and can't be taken down by authoritarian regimes
+ - Cant be taken down - because of the design of the technology
+ - knowledge is essential and can't be taken down by authoritarian regimes

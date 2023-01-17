@@ -24,8 +24,3 @@ I extend a warm welcome and invite you to explore my tales, thoughts and musings
 
 
 
-
-## My hopes for the future
-### Personal development and aspirations 
-- to either create a company or be a part of a company that fosters radical innovation that can have major implications for improvements for our society
-- 
