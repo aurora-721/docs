@@ -11,8 +11,7 @@ If you zoom out into the vast cosmos of the Universe you will see Earth as a tin
   - creating the equality of opportunity
 
 
-
 ## My hopes for the future
 ### Personal development and aspirations 
 - to either create a company or be a part of a company that fosters radical innovation that can have major implications for improvements for our society
-- 
+ 
