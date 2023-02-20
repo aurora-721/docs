@@ -12,8 +12,15 @@ export default {
         {
             text: 'Timelog',
             items: [
-
                 { text: 'Welcome', link: '/' },
+                {
+                    text: "Changelog",
+                    items: [
+                     { text: "v0.0.1", link: "/item-1" },
+                     { text: "v0.0.2", link: "/item-2" },
+                     { text: "v0.0.3", link: "/item-3" },
+                    ],
+                },
                 { text: 'From research to business', link: '/timelog/research-to-business' },
                 { text: 'Why sex toys', link: '/timelog/why-sex-toys' },
                 { text: 'My time at Instrumentation Technologies', link: '/timelog/i-tech.md' },
