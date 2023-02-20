@@ -77,8 +77,6 @@ poppyseedDev#9946
 A coworking space in the midst of the Julian Alps:
 
 ![Bled](./bled.jpeg)
-![Coworking-space](./subwork.avif)
-
 
 #### Links for visitors:
 *   [twitter.com/SubWorkBled](https://twitter.com/subworkBled)
