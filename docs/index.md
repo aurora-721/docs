@@ -76,8 +76,8 @@ poppyseedDev#9946
 ### 📍 Subwork - Bled, Slovenia
 A coworking space in the midst of the Julian Alps:
 
-![Bled](/bled.jpeg)
-![Coworking-space](/subwork.avif)
+![Bled](./bled.jpeg)
+![Coworking-space](./subwork.avif)
 
 
 #### Links for visitors:
