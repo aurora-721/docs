@@ -12,17 +12,19 @@ export default {
         {
             text: 'Timelog',
             items: [
-                { text: 'Welcome', link: '/' },
+                { text: '🤗 Welcome', link: '/' },
                 {
-                    text: "Timelog ⏲️ ",
+                    text: "⏲️ Timelog",
                     items: [
-                        { text: 'From research to business', link: '/timelog/research-to-business' },
-                        { text: 'Why sex toys', link: '/timelog/why-sex-toys' },
-                        { text: 'My time at Instrumentation Technologies', link: '/timelog/i-tech.md' },
-                        { text: 'Why blockchain', link: '/timelog/why-blockchain' },
+                        { text: 'Research -> Business', link: '/timelog/research-to-business' },
+                        { text: 'Sex Toys?', link: '/timelog/why-sex-toys' },
+                        { text: 'My time at i-Tech', link: '/timelog/i-tech.md' },
+                        { text: 'Blockchain?', link: '/timelog/why-blockchain' },
                         { text: 'Visions for the future', link: '/timelog/visions-for-the-future' },
                     ],
                 },
+                { text: 'Proof of Work', link: '/proof-of-work' },
+
             ]
         }
         ]
