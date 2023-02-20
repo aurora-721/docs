@@ -14,18 +14,15 @@ export default {
             items: [
                 { text: 'Welcome', link: '/' },
                 {
-                    text: "Changelog",
+                    text: "Timelog ⏲️ ",
                     items: [
-                     { text: "v0.0.1", link: "/item-1" },
-                     { text: "v0.0.2", link: "/item-2" },
-                     { text: "v0.0.3", link: "/item-3" },
+                        { text: 'From research to business', link: '/timelog/research-to-business' },
+                        { text: 'Why sex toys', link: '/timelog/why-sex-toys' },
+                        { text: 'My time at Instrumentation Technologies', link: '/timelog/i-tech.md' },
+                        { text: 'Why blockchain', link: '/timelog/why-blockchain' },
+                        { text: 'Visions for the future', link: '/timelog/visions-for-the-future' },
                     ],
                 },
-                { text: 'From research to business', link: '/timelog/research-to-business' },
-                { text: 'Why sex toys', link: '/timelog/why-sex-toys' },
-                { text: 'My time at Instrumentation Technologies', link: '/timelog/i-tech.md' },
-                { text: 'Why blockchain', link: '/timelog/why-blockchain' },
-                { text: 'Visions for the future', link: '/timelog/visions-for-the-future' },
             ]
         }
         ]

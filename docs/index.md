@@ -15,16 +15,16 @@ I extend a warm welcome and invite you to explore my tales, thoughts and musings
 [@PoppyseedDev](https://www.youtube.com/@PoppyseedDev)
 
 #### 🔗 Linkedin
-https://www.linkedin.com/in/auroramakovac/
+[linkedin.com/in/auroramakovac](https://www.linkedin.com/in/auroramakovac/)
 
 #### 🤙 Discord
 poppyseedDev#9946
 
 #### 🐦 Twitter
-@poppyseedDev
+[@poppyseedDev](https://twitter.com/poppyseedDev)
 
 #### 🧑‍💻 Github
-https://github.com/poppyseedDev
+[github.com/poppyseedDev](https://github.com/poppyseedDev)
 
 
 ## ⏲️ Timelog
