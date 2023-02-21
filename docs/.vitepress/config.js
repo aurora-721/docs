@@ -28,6 +28,7 @@ export default {
                     text: "Proof of Work",
                     items: [
                         { text: 'Projects', link: '/proof-of-work/projects' },
+                        { text: 'Skills', link: '/proof-of-work/skills' },
                         { text: 'YouTube videos', link: '/proof-of-work/youtube' },
                         { text: 'Conferences, Courses and Hackathons', link: '/proof-of-work/conferences-hackathons' },
                     ],
