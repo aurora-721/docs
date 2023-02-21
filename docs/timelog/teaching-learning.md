@@ -12,19 +12,16 @@ The quality of the schooling system should be uniform around the world. Your soc
 - When teaching expect minimal prerequisits in terms of knowledge requirements
 - Even if people know a topic, they can forget it over time, therefore a revision of that topic is necessary
 - for every topic you try to teach break down what are the prerequisits for you knowing that field
-
 - try to give a quick overview of the field at hand, go in many directions
 - give analogies for a complex topic - people have a hard time grasping hard topics, easier 
 
 
 > Having a breadth of knowledge in different areas allows you to create connections between different areas that you wouldn't see if you would just focus on one area of expertise.
-
 >
-
 > ~ Robert Greene
 
 
-Learning any new subject should consist of 
+Learning any new subject should consist of:
  - Fundamental theory (in written and video form) - many resources, no memorization - memories about the subject at hand should be formed, with reading through more material, not by pure memorization
  - working examples - coding exercises
  - applied project work
