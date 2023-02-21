@@ -20,10 +20,18 @@ export default {
                         { text: 'Sex Toys?', link: '/timelog/why-sex-toys' },
                         { text: 'My time at i-Tech', link: '/timelog/i-tech.md' },
                         { text: 'Blockchain?', link: '/timelog/why-blockchain' },
+                        { text: 'Need for better educaiton', link: '/timelog/teaching-learning' },
                         { text: 'Visions for the future', link: '/timelog/visions-for-the-future' },
                     ],
                 },
-                { text: 'Proof of Work', link: '/proof-of-work' },
+                {
+                    text: "Proof of Work",
+                    items: [
+                        { text: 'Projects', link: '/proof-of-work/projects' },
+                        { text: 'YouTube videos', link: '/proof-of-work/youtube' },
+                        { text: 'Conferences, Courses and Hackathons', link: '/proof-of-work/conferences-hackathons' },
+                    ],
+                },
 
             ]
         }

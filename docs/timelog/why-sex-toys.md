@@ -5,4 +5,3 @@
 
  - marketing challenges
  - financial challenges
- - must admit I wasn't mentaly strong enough to handle the push back of it being a taboo topic

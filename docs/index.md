@@ -11,21 +11,10 @@ I extend a warm welcome and invite you to explore my tales, thoughts and musings
 
 ## 🛰️ Hyperspace links 
 
-#### ⏸️ YouTube Channel
-[@PoppyseedDev](https://www.youtube.com/@PoppyseedDev)
-
-#### 🔗 Linkedin
-[linkedin.com/in/auroramakovac](https://www.linkedin.com/in/auroramakovac/)
-
-#### 🤙 Discord
-poppyseedDev#9946
-
-#### 🐦 Twitter
-[@poppyseedDev](https://twitter.com/poppyseedDev)
-
-#### 🧑‍💻 Github
-[github.com/poppyseedDev](https://github.com/poppyseedDev)
-
+ - [**⏸️ YouTube Channel**](https://www.youtube.com/@PoppyseedDev)
+ - [**🔗 Linkedin**](https://www.linkedin.com/in/auroramakovac/)
+ - [**🐦 Twitter**](https://twitter.com/poppyseedDev)
+ - [**🧑‍💻 Github**](https://github.com/poppyseedDev)
 
 ## ⏲️ Timelog
 
