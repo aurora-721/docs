@@ -18,8 +18,8 @@ Beyond this digital space, there are wormholes that lead to fascinating places. 
 
 ## 🚀 Venture Further
 
-- [**🔗 Rust - The Metallic Truth of Programming**](./rust) - As sturdy as Vogon constructions, but much more friendly!
-- [**🧬 Blockchain - The Immutable Chains of The Cosmos**](./blockchain) - More cryptic than the poetry of the Azgoths of Kria.
+- [**🔗 Rust - The Metallic Truth of Programming**](./rust/index) - As sturdy as Vogon constructions, but much more friendly!
+- [**🧬 Blockchain - The Immutable Chains of The Cosmos**](./blockchain/index) - More cryptic than the poetry of the Azgoths of Kria.
 - [**🌌 About Me - The Chronicles of an Earthling**](./about_me) - Why did the Earthman cross the galaxy? Find out here.
 
 So long, and thanks for all the clicks!
